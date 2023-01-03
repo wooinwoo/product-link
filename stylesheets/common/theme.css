@@ -1,0 +1,11 @@
+/* Theme 스타일 작성 */
+:root{
+  --color-text0: #181818;
+  --color-text1: #AAA9A9;
+  --color-text2: #FFFFFF;
+
+  --color-border0: #C4C4C4;
+  --color-border1: #0074E9;
+  
+  --color-bkg0: rgba(0,0,0,0.2);
+}
